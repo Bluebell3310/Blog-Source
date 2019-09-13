@@ -677,8 +677,8 @@ gitalk:
   enable: true
   github_id: bluebell3310 # GitHub repo owner
   repo: bluebell3310.github.io # Repository name to store issues
-  client_id: 63c6c593859fdc07f08a # GitHub Application Client ID
-  client_secret: ab50b53f6aa5abb9e680d9c27fcdd30baca6f65e # GitHub Application Client Secret
+  client_id: ${GITALK_ID} #63c6c593859fdc07f08a # GitHub Application Client ID
+  client_secret: ${GITALK_SECRET} #ab50b53f6aa5abb9e680d9c27fcdd30baca6f65e # GitHub Application Client Secret
   admin_user: bluebell3310 # GitHub repo owner and collaborators, only these guys can initialize gitHub issues
   distraction_free_mode: true # Facebook-like distraction free mode
   # Gitalk's display language depends on user's browser or system environment
