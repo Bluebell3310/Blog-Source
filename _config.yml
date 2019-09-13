@@ -3,19 +3,19 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
-description:
-keywords:
-author: John Doe
-language: en
+title: Bluebell3310's Blog
+subtitle: 一個研究生的部落格
+description: 不專業技術部落格，加上一些生活雜記
+keywords: SIRLA,LIS,NTNU,FJU,Bluebell3310
+author: Sam Yang
+language: zh
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: https://bluebell3310.github.io
 root: /
-permalink: :year/:month/:day/:title/
+permalink: :year/:month/:title/
 permalink_defaults:
 
 # Directory
