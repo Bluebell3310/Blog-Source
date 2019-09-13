@@ -4,11 +4,11 @@
 
 # Site
 title: Bluebell3310's Blog
-subtitle: 一個研究生的部落格
-description: 不專業技術部落格，加上一些生活雜記
+subtitle: 只要睡的飽，都是好天氣
+description: Graduate Student Major In LIS
 keywords: SIRLA,LIS,NTNU,FJU,Bluebell3310
 author: Sam Yang
-language: zh
+language: en
 timezone:
 
 # URL
@@ -73,7 +73,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
