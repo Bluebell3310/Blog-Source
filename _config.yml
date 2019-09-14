@@ -9,7 +9,7 @@ description: Graduate Student Major In LIS
 keywords: SIRLA,LIS,NTNU,FJU,Bluebell3310
 author: Sam Yang
 language: zh-TW
-timezone: ROC
+timezone: 
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
