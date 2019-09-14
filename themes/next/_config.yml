@@ -674,17 +674,17 @@ livere_uid: # <your_uid>
 # Demo: https://gitalk.github.io
 # For more information: https://github.com/gitalk/gitalk
 gitalk:
-  enable: true
-  github_id: bluebell3310 # GitHub repo owner
-  repo: bluebell3310.github.io # Repository name to store issues
-  client_id: ${GITALK_ID} #63c6c593859fdc07f08a # GitHub Application Client ID
-  client_secret: ${GITALK_SECRET} #ab50b53f6aa5abb9e680d9c27fcdd30baca6f65e # GitHub Application Client Secret
-  admin_user: bluebell3310 # GitHub repo owner and collaborators, only these guys can initialize gitHub issues
-  distraction_free_mode: true # Facebook-like distraction free mode
+  enable: false
+  github_id: # GitHub repo owner
+  repo: # Repository name to store issues
+  client_id: # GitHub Application Client ID
+  client_secret: # GitHub Application Client Secret
+  admin_user: # GitHub repo owner and collaborators, only these guys can initialize gitHub issues
+  distraction_free_mode: # Facebook-like distraction free mode
   # Gitalk's display language depends on user's browser or system environment
   # If you want everyone visiting your site to see a uniform language, you can set a force language value
   # Available values: en | es-ES | fr | ru | zh-CN | zh-TW
-  language: zh-TW
+  language:
 
 
 # ---------------------------------------------------------------
