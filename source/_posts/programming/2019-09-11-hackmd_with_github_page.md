@@ -9,9 +9,7 @@ tags: blog, github, hackmd
 # 利用HakcMD編輯GitHub Pages部落格
 
 ## 前言
-:::info
-前言部分僅為個人廢話，完全可以跳過沒關係喔~
-:::
+> 前言部分僅為個人廢話，完全可以跳過沒關係喔~
 
 最近發現，HackMD出了一個功能，可以讓HackMD裡面的檔案與GitHub進行連結，亦即，可以用HackMD這個方便的md文件編輯器，來編輯GitHub上的文件。
 
