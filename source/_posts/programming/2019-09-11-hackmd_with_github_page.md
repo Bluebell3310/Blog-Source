@@ -2,8 +2,8 @@
 layout: post
 title:  利用HakcMD編輯GitHub Pages部落格
 date:   2019-9-11 23:50:00 +0800
-categories: 程式設計, 部落格架設
-tags: blog, github, hackmd
+categories: [程式設計, 部落格架設]
+tags: blog
 ---
 
 # 利用HakcMD編輯GitHub Pages部落格
