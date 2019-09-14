@@ -620,8 +620,8 @@ comments:
 
 # Disqus
 disqus:
-  enable: false
-  shortname:
+  enable: true
+  shortname: bluebell3310-blog
   count: true
   lazyload: false
   #post_meta_order: 0
