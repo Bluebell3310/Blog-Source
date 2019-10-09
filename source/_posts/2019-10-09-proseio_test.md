@@ -1,7 +1,8 @@
 ---
 title: Testing prose.io
-tags: 
-date: 2019-10-09 12:46:00
+tags: null
+date: 2019-10-09T12:46:00.000Z
+published: true
 ---
 
 ## Testing prose.io
