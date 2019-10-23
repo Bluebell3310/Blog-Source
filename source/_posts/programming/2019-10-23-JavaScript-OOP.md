@@ -1,12 +1,9 @@
 ---
-title: JavaScript OOP
-date: '2018-10-23 12:20:00 +0800'
-categories:
-  - 程式設計
-tag: 'JavaScript, oop'
-published: true
 layout: post
-tags: JavaScript
+title:  利用HakcMD編輯GitHub Pages部落格
+date:   2019-10-23 12:20:00 +0800
+categories: [程式設計, JavaScript]
+tags: javascript
 ---
 
 # JavaScript OOP
