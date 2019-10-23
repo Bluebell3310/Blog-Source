@@ -580,7 +580,7 @@ JavaScript沒有class的設計，你寫的那個class是ES6提供的語法糖
     console.log(data.hasOwnProperty("three"));
     ```
 
-## Lab3 Stack
+### Lab3 Stack
 * 題目
     製作一個stack的class，包含下面的property以及method
     * Properties
