@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  利用HakcMD編輯GitHub Pages部落格
+title:  JavaScript OOP
 date:   2019-10-23 12:20:00 +0800
 categories: [程式設計, JavaScript]
 tags: javascript
