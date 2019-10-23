@@ -1120,3 +1120,8 @@ vendors:
 css: css
 js: js
 images: images
+
+# For home page summary
+auto_excerpt:
+  enable: true
+  length: 150
