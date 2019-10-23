@@ -2,7 +2,8 @@
 title: JavaScript OOP
 date: '2018-10-23 12:20:00 +0800'
 categories: 程式設計
-tag: JavaScript, oop
+tag: 'JavaScript, oop'
+published: true
 ---
 
 # JavaScript OOP
