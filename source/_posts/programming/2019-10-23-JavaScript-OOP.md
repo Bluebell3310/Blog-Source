@@ -1,15 +1,18 @@
 ---
 layout: post
-title:  JavaScript OOP
-date:   2019-10-23 12:20:00 +0800
-categories: [程式設計, JavaScript]
+title: JavaScript OOP
+date: '2019-10-23 12:20:00 +0800'
+categories:
+  - 程式設計
+  - JavaScript
 tags: javascript
+published: true
 ---
 
 # JavaScript OOP
 {% note info %}
 參考章節: [Ch6 The Secret Life Of Objects](http://eloquentjavascript.net/06_object.html)
-Slides: https://slides.com/sirla_potato/javascript-oop/live
+Slides: https://slides.com/sirla_potato/javascript-oop
 環境: Windows10、Node.js(10.15.3)
 {% endnote %}
 
