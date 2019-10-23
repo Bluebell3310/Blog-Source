@@ -72,7 +72,7 @@ Object在互相取得對方public的資料時，會透過interface來進行
 overriding代表，在繼承的時候，如果子類別想要將父類別的某個method的行為做一些變更，則可以透過overriding的方式，取代父類別的method
 
 要如何做，子類別只需新增一個跟父類別同名的method即可，程式在運作時，會優先使用子類別定義的method，而不會使用父類別的東西，可以看看下圖
-
+ 
 ![](https://i.imgur.com/OblhaEp.png)
 
 懶學生是學生的子類別，而懶學生的走路、吃東西與睡覺的方式可能有異於一般的學生，這時候就可以將學生class的那些method override掉，變成自己定義的動作
