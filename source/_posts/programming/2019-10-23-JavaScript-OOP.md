@@ -9,7 +9,6 @@ tags: javascript
 published: true
 ---
 
-# JavaScript OOP
 {% note info %}
 參考章節: [Ch6 The Secret Life Of Objects](http://eloquentjavascript.net/06_object.html)
 Slides: https://slides.com/sirla_potato/javascript-oop
