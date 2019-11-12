@@ -1,15 +1,17 @@
 ---
+layout: post
 title: JavaScript OOP
-date: '2018-10-23 12:20:00 +0800'
-categories: 程式設計
-tag: 'JavaScript, oop'
+date: '2019-10-23 12:20:00 +0800'
+categories:
+  - 程式設計
+  - JavaScript
+tags: javascript
 published: true
 ---
 
-# JavaScript OOP
 {% note info %}
 參考章節: [Ch6 The Secret Life Of Objects](http://eloquentjavascript.net/06_object.html)
-Slides: https://slides.com/sirla_potato/javascript-oop/live
+Slides: https://slides.com/sirla_potato/javascript-oop
 環境: Windows10、Node.js(10.15.3)
 {% endnote %}
 
@@ -69,7 +71,7 @@ Object在互相取得對方public的資料時，會透過interface來進行
 overriding代表，在繼承的時候，如果子類別想要將父類別的某個method的行為做一些變更，則可以透過overriding的方式，取代父類別的method
 
 要如何做，子類別只需新增一個跟父類別同名的method即可，程式在運作時，會優先使用子類別定義的method，而不會使用父類別的東西，可以看看下圖
-
+ 
 ![](https://i.imgur.com/OblhaEp.png)
 
 懶學生是學生的子類別，而懶學生的走路、吃東西與睡覺的方式可能有異於一般的學生，這時候就可以將學生class的那些method override掉，變成自己定義的動作
@@ -577,7 +579,7 @@ JavaScript沒有class的設計，你寫的那個class是ES6提供的語法糖
     console.log(data.hasOwnProperty("three"));
     ```
 
-## Lab3 Stack
+### Lab3 Stack
 * 題目
     製作一個stack的class，包含下面的property以及method
     * Properties
