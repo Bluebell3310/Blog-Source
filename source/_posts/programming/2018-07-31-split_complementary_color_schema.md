@@ -17,6 +17,6 @@ tag: 配色
 
 這邊實際用div切三塊給大家看看感覺如何。
 
-<p data-height="300" data-theme-id="34116" data-slug-hash="LBQVQB" data-default-tab="html,result" data-user="bluebell3310" data-pen-title="split-complementary color scheme" class="codepen">See the Pen <a href="https://codepen.io/bluebell3310/pen/LBQVQB/">split-complementary color scheme</a> by Sam Yang (<a href="https://codepen.io/bluebell3310">@bluebell3310</a>) on <a href="https://codepen.io">CodePen</a>.</p>
+<p data-height="300" data-theme-id="34116" data-slug-hash="LBQVQB" data-default-tab="html,result" data-user="netjagaimo" data-pen-title="split-complementary color scheme" class="codepen">See the Pen <a href="https://codepen.io/netjagaimo/pen/LBQVQB/">split-complementary color scheme</a> by Sam Yang (<a href="https://codepen.io/netjagaimo">@netjagaimo</a>) on <a href="https://codepen.io">CodePen</a>.</p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
 

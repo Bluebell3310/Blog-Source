@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Bluebell3310's Blog
+title: Net Jagaimo
 subtitle: 只要睡的飽，都是好天氣
 description: Graduate Student Major In LIS
-keywords: SIRLA,LIS,NTNU,FJU,Bluebell3310
+keywords: SIRLA,LIS,NTNU,FJU,netjagaimo
 author: Sam Yang
 language: zh-TW
 timezone: 
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://bluebell3310.github.io
+url: https://netjagaimo.github.io
 root: /
 permalink: :year/:month/:title/
 permalink_defaults:
@@ -79,6 +79,6 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/Bluebell3310/Bluebell3310.github.io
+  repo: https://github.com/netjagaimo/netjagaimo.github.io
   branch: master
   message:
