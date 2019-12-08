@@ -2,8 +2,7 @@
 layout: post
 date: '2019-11-4 00:01:00 +0800'
 title: 豆語錄
-categories:
-  - 生活雜記
+categories: [生活雜記]
 tags: 語錄
 published: true
 ---
