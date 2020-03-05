@@ -13,8 +13,8 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://netjagaimo.github.io/blog_life
-root: /
+url: https://netjagaimo.github.io
+root: /blog_life
 permalink: :year/:month/:title/
 permalink_defaults:
 
